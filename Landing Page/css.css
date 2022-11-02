@@ -1,0 +1,98 @@
+body{
+    margin: 0%;
+    display: flex;
+    flex-direction: column;
+}
+
+.header{
+    display: flex;
+    justify-content: space-between;
+    color: white;
+}
+.dreapta{
+    display: flex;
+    gap: 30px;
+    margin-right: 30px;
+    font-size: larger;
+}
+.stanga{
+    margin-left: 30px;
+    font-size: larger;
+}
+.subheader{
+    display: flex;
+    flex-direction: column;
+    margin-top: 2cm;
+    gap: 1cm;
+    color: black;
+    width:6cm;
+    align-items: center;
+    font-size: large;
+}
+
+.cuimagine{
+    display: flex;
+    gap: 100px;
+    justify-content: center;
+}
+.imagine{
+    margin-top: 3cm;  
+}
+.culoaresus{
+    background-color: pink;
+    padding-bottom: 5cm;
+}
+.middle{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 1cm;
+    gap: 1cm;
+}
+.imagini{
+    display: flex;
+    gap: 2cm;
+}
+.imagine1{
+    display: flex;
+    flex-direction: column;
+    gap: 1cm;
+    text-align: center;        
+}
+       
+.img1{
+    border: solid 5px violet;
+    
+}
+
+.thor{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 1cm;
+    background-color:pink;    
+}
+.textthor{
+    width: 25cm;
+}
+.signature{
+    margin-left: auto;
+    font-size: large;
+}
+.footer{
+    display: flex;
+    justify-content: center;
+    justify-content: baseline;
+
+}
+.roscat{
+    color: red;
+}
+.blond{
+    color: rgb(235, 220, 12);
+}
+.info{
+    color: blueviolet;
+}
+
